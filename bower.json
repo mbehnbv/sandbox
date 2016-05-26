@@ -1,0 +1,16 @@
+{
+  "name": "sandbox",
+  "authors": [
+    "matthew.behn@gmail.com"
+  ],
+  "description": "My sanbox",
+  "main": "",
+  "keywords": [
+    "matt",
+    "sandbox",
+    "testing",
+    "abbey"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mbehnbv/sandbox"
+}
