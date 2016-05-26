@@ -12,5 +12,10 @@
     "abbey"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/mbehnbv/sandbox"
+  "homepage": "https://github.com/mbehnbv/sandbox",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "normalize-css": "^4.1.1",
+    "jquery": "^2.2.4"
+  }
 }
